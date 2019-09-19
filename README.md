@@ -23,10 +23,10 @@ Print a similar statement for your future home:
 "My future home ..."  
 
 
-<hr/>
 
 Need an idea?
 https://en.wikipedia.org/wiki/Antilia_(building)
 
+<hr/>
 
 ## Once you are finished please use this example to create a class for Window, Door, and Floor. Your House class will then be made of classes rather than String variables. This is called Composition.
