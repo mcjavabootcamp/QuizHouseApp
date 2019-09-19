@@ -24,7 +24,7 @@ Print a similar statement for your future home:
 
 
 
-Need an idea?
+Need an inspiration for a future home? See
 https://en.wikipedia.org/wiki/Antilia_(building)
 
 <hr/>
